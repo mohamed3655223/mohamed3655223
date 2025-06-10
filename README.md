@@ -15,7 +15,7 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26](https://pixabay.com/illustrations/logo-css-css3-icon-2582747/style=flat-square&logo=css3&logoColor=white" />
+  <img alt="html5" src="https://pixabay.com/illustrations/logo-css-css3-icon-2582747/style=flat-square&logo=css3&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
